@@ -1,0 +1,2 @@
+# qrcodegeneratorusingpublicapi
+QR CODE 
